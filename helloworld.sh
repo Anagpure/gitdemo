@@ -3,3 +3,4 @@
 PASSWORD=$(date +%s)
 echo "${PASSWORD}"
 echo " This is my first git repo"
+echo " This is for Jenkins auto"
